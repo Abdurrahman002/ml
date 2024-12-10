@@ -35,7 +35,7 @@ This type of data provides **measurable information** in numeric form.
 
 #### **Types of Quantitative Data:**  
 1. **Interval Data**  
-   - **Definition**: Numeric data where the difference between values is meaningful, but it lacks a true zero.  
+   - **Definition**: Numeric data where the difference between values is meaningful, but it lacks a true zero.Its order is also known.  
    - **Examples**:  
      - Celsius temperature: Difference of 6°C is meaningful (e.g., between 12°C and 18°C).  
      - Dates and time.  
